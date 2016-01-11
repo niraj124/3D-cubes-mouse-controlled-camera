@@ -1,1 +1,13 @@
-This is readme
+This is a simple 3D block grid arrangement with a mouse controlled camera. For the camera working the Peasycam library for Processing 3 is used.
+
+Steps to get it working:
+
+1) Install Processing from this link:   https://processing.org/download/
+
+2) Open the sketch included in the repo.
+
+3) Add library by using Sketch-->Import Library--> Add Library -->PeasyCam (Search for Peasy Cam in search box)--> Install
+
+4) Run the code.
+
+Thank You!
